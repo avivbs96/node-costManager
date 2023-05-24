@@ -21,4 +21,6 @@ GET -  http://localhost:3000/report?user_id=6468cd441c73b7e76897efc6&month=5&yea
 
 GET - http://localhost:3000/users - show the number of users in the database and their info.
 
-POST - http://localhost:3000/users - add a new user to the database , you can press send in postman with this endpoint and you will get an exact instructions of how to add user successfully.
+This post methoed we removed because we understand that there is no option to create a new user ! :
+
+(POST - http://localhost:3000/users - add a new user to the database , you can press send in postman with this endpoint and you will get an exact instructions of how to add user successfully.)
