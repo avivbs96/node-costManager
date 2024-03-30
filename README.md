@@ -1,6 +1,9 @@
 
 [NodeJS Project CostManager-Aviv Ben Shitrit (1).pdf](https://github.com/avivbs96/node-costManager/files/14811572/NodeJS.Project.CostManager-Aviv.Ben.Shitrit.1.pdf)
 
+![image](https://github.com/avivbs96/node-costManager/assets/85108235/c98ed1e8-6df2-48e9-a7e0-4ca53827b7a4)
+
+https://www.youtube.com/watch?v=AVGnUneQUSY&feature=youtu.be
 
 # Cost Manager RESTful Web Services
  Final Project in Asynchronous Server Side Course
